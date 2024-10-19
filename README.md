@@ -1,4 +1,4 @@
-# World_layoffs-Data-cleaning-and-EDA
+# World_layoffs-Exploratory-Data_Analysis
 
 ## Overview
 
